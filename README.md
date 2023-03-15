@@ -26,7 +26,36 @@ Install NodeJS
 ```
 sudo apt install -y nodejs
 ```
+
+![Screenshot from 2023-03-15 08-48-21](https://user-images.githubusercontent.com/84657461/225241825-0cdef3ae-cfd1-40f2-9566-587c8916be52.png)
+
 ---
 ## Step 2: Install MongoDB
 MongoDB stores data in flexible, JSON-like documents. Fields in a database can vary from document to document and data structure can be changed over time. For our example application, we are adding book records to MongoDB that contain book name, isbn number, author, and number of pages.
 mages/WebConsole.gif
+
+
+![Screenshot from 2023-03-15 08-49-54](https://user-images.githubusercontent.com/84657461/225242157-9aee4713-8711-42b3-8185-d4995c0dc283.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
